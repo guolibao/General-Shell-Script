@@ -1,0 +1,13 @@
+* Take note
+- the used file =Add_Emacs_To_Right_Click_Menu_good.reg= for 
+- important to uncompress the emacs folder to C:\ or some other folder that that
+access or some permission not limited, or it will cause if the emacs is not 
+already running, right click mouse menu to open a file with emacs will gives error.
+registering the right mouse click menu.
+- =bat-to-exe-converter-2-4-1-0.zip= is not used, but ti is a useful tool to convert
+from .bat file to .exe file
+
+- =runemacsclientw.bat= for study use, to configure the emacsclientw.exe configuration.
+
+
+
