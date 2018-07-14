@@ -1,0 +1,22 @@
+#+STARTUP: Cygwin Right Click Menu
+#+TITLE: Cygwin Right Click Menu
+
+1. Installation
+When you install *Cygwin*
+(or if you¡¯ve already installed it, download it again and start setup again to run an /update/), 
+make sure that you select the =chere= package under the "_Shells_" category.
+After *Cygwin* is launched, open up a *Cygwin* terminal (as an /administrator/) 
+and type the command: chere -i -t mintty.
+Now you should have ="Bash Prompt Here"= in the Windows _right-click_ context menu.
+
+(*mintty* is *Cygwin*'s default terminal. If you don't choose it with the -t option, 
+your "Bash Prompt Here" will use the same terminal as the Windows Command Prompt, 
+which prevents horizontal resizing.)
+-----
+
+2. Usage
+To open sygwin in a particular folder, open the folder, right click, and select
+=Bash Prompt Here= to open sygwin in that folder
+-----
+
+[[file:img/Cygwin-right-click-menu.png][Cygwin showing in right click menu]]
